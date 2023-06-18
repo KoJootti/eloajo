@@ -8,12 +8,12 @@ postSections:
   - post
 
 params:
-  image: /images/banner.png
+  image: /images/eloajo-logo.jpg
   logo: logo.png # todo: add your custom logo to static/
   subtitle: Eloajo tapahtuman sivusto # todo: change default subtitle for your website.
   copyright: Kaikki oikeudet pidätetään. # todo: set your copyright type.
-  author: Joonas Koistinen # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  author: SISU Enduro Ry # todo: set your full name.
+  dontShowSource: true # please, do not do this :)
   portfolio:
     columns:
       desktop:
@@ -31,10 +31,8 @@ params:
   homepage: "/eloajo_2023" # homepage link, mostly same with menu.main[0]
   specialPages:
     - main
-    - gallery
-    - previous_years
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: false # disables the background image on the homepage
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: true # disables the background image on the homepage
   #plausible: "" # todo: set your plausible id.
   disableRadius: false
   moveIt: true # Moves Title and Meta info down, only visible when scroll.
@@ -51,15 +49,14 @@ taxonomies:
 
 permalinks:
   work: ":filename/"
-
-menu:
-  main:
-    - name: Etusivu
-      url: /eloajo_2023/
-      weight: 1
-    - name: Aiemmat vuodet
-      url: /previous_years/
-      weight: 2
-    - name: Galleria
-      url: /tags/gallery/
-      weight: 3
+# menu:
+#   main:
+#     - name: Etusivu
+#       url: /eloajo_2023/
+#       weight: 1
+#     - name: Aiemmat vuodet
+#       url: /previous_years/
+#       weight: 2
+#     - name: Galleria
+#       url: /tags/gallery/
+#       weight: 3
