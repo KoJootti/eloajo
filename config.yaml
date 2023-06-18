@@ -49,14 +49,11 @@ taxonomies:
 
 permalinks:
   work: ":filename/"
-# menu:
-#   main:
-#     - name: Etusivu
-#       url: /eloajo_2023/
-#       weight: 1
-#     - name: Aiemmat vuodet
-#       url: /previous_years/
-#       weight: 2
-#     - name: Galleria
-#       url: /tags/gallery/
-#       weight: 3
+menu:
+  main:
+    - name: Eloajo 2023
+      url: /eloajo_2023/
+      weight: 1
+    # - name: Galleria (kaikki vuodet)
+    #   url: /galleria/
+    #   weight: 2
