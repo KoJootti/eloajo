@@ -1,4 +1,4 @@
-baseURL: https://eloajo.fi # todo: change site url.
+baseURL: http://www.eloajo.fi # todo: change site url.
 title: Eloajo # todo: change site name.
 defaultContentLanguage: "fi"
 theme: eternity
