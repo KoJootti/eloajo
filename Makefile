@@ -2,6 +2,7 @@
 
 .PHONY: *
 
+default: build
 
 clean:
 	@echo "Cleaning..."
