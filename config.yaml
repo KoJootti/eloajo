@@ -9,7 +9,7 @@ postSections:
 
 params:
   image: /images/eloajo-logo.jpg
-  logo: logo.png # todo: add your custom logo to static/
+  logo: eloajo-logo.jpg # todo: add your custom logo to static/
   subtitle: Eloajo tapahtuman sivusto # todo: change default subtitle for your website.
   copyright: Kaikki oikeudet pidätetään. # todo: set your copyright type.
   author: SISU Enduro Ry # todo: set your full name.
