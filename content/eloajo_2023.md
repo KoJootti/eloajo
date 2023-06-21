@@ -11,8 +11,16 @@ images:
 
 **Startti Muroleen kanavakahvilan terassilta klo 10-10.30**
 
-Voit ilmoittautua mukaan laittamalla viestiä numeroon 0400 511 321 (whatsapp / txt) tai soittamalla. Ilmottautuminen onnistuu myös paikanpäällä. Reittikartan saa paperilla ja tiedostolinkkinä (maastokartat sovellukseen). Osallistumismaksu käteisellä 10 € per nuppi (ruokailuun). Perillä sauna, järvi, grilli. Majoitusta on sisällä, kuistilla ja omassa teltassa. Makuupussit mukaan. Juuri ennen majoitusta on kauppa ja huoltoasema. Huikea reitti, sekavia tehtäviä ja outoa seuraa luvassa! :)
+Voit ilmoittautua mukaan laittamalla viestiä numeroon 0400 511 321 (whatsapp / txt) tai soittamalla. Ilmottautuminen onnistuu myös paikanpäällä. Reittikartan saa paperilla ja tiedostolinkkinä (maastokartat sovellukseen).
 
-2023 Eloajon maastokartat saat ladattua **[täältä](/eloajokartat_2023.gpx)**
+Osallistumismaksu käteisellä **10 €** per nuppi (ruokailuun). Perillä tarjolla Saunomista (sekä uintia) järven rannalla. Grilli myös löytyy käristettäviä varten.
 
-Maastokartat sovelluksen puhelimeesi löydät täältä: **[iOS](https://apps.apple.com/fi/app/maastokartat/id929001708?l=fi)** / **[Android](https://play.google.com/store/apps/details?id=com.swampsend.maastokartat)**
+Majoitusta on sisällä, kuistilla ja omassa teltassa. Makuupussit mukaan. Juuri ennen majoitusta on kauppa ja huoltoasema. Huikea reitti, sekavia tehtäviä ja outoa seuraa luvassa! :)
+
+Eloajo 2023 kartat saa ladattua täältä hieman ennen starttia. Kartta jaetaan lähtöpaikalta myös paperisena.
+
+Maastokartat sovelluksen puhelimeesi löydät täältä: **[iOS](https://apps.apple.com/fi/app/karttaselain-maastokartta/id366054373)** / **[Android](https://play.google.com/store/apps/details?id=com.swampsend.maastokartat)**
+
+## **[Kuvia menneistä eloajoista](https://photos.google.com/share/AF1QipP6qgHgricd6BB3yYS_NbBRUUL8NtWyUTs2cxvBZ4-V69JutbDUHpwxLtUVTon3cg?key=SndiYjZSeWpBYlROOFNkRHMtdEpCVGpNam8yUW9B)**
+
+Ylläolevasta linkistä pääset selaamaan kuvia aiempien vuosien Eloajoista. Kuvagalleria siirtyy tälle sivulle tulevaisuudessa.
