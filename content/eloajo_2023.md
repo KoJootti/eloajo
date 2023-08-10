@@ -19,7 +19,19 @@ Majoitusta on sisällä, kuistilla ja omassa teltassa. Makuupussit mukaan. Juuri
 
 Eloajo 2023 kartat saa ladattua täältä hieman ennen starttia. Kartta jaetaan lähtöpaikalta myös paperisena.
 
-Maastokartat sovelluksen puhelimeesi löydät täältä: **[iOS](https://apps.apple.com/fi/app/karttaselain-maastokartta/id366054373)** / **[Android](https://play.google.com/store/apps/details?id=com.swampsend.maastokartat)**
+Maastokartat sovelluksen puhelimeesi löydät täältä: **[iOS](https://apps.apple.com/fi/app/karttaselain-maastokartta/id366054373gi)** / **[Android](https://play.google.com/store/apps/details?id=com.swampsend.maastokartat)**
+
+## Sponsorit
+
+Eloajoa 2023 sponsoroi:
+
+-   [**Motokeidas**](https://www.motokeidas.com/)
+-   [**RM Heino**](https://www.rmheino.fi/)
+-   [**loukko.com**](https://www.loukko.com/)
+-   [**MP Purkaamo Silvola**](https://www.mp-purkaamo.fi/)
+-   [**Moto-osat Ahti Kivimaa**](https://www.moto-osat.fi/)
+-   [**Bike & Boat World**](https://www.bikeworld.fi/)
+-   [**Storm Motor**](https://www.storm-motor.fi/)
 
 ## **[Kuvia menneistä eloajoista](https://photos.google.com/share/AF1QipP6qgHgricd6BB3yYS_NbBRUUL8NtWyUTs2cxvBZ4-V69JutbDUHpwxLtUVTon3cg?key=SndiYjZSeWpBYlROOFNkRHMtdEpCVGpNam8yUW9B)**
 

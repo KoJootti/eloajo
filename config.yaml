@@ -13,16 +13,13 @@ params:
   subtitle: Eloajo tapahtuman sivusto # todo: change default subtitle for your website.
   copyright: Kaikki oikeudet pidätetään. # todo: set your copyright type.
   author: SISU Enduro Ry # todo: set your full name.
-  dontShowSource: true # please, do not do this :)
+  dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
       desktop:
-        # Sivun kansion nimen mukaisesti
-        previous_years: 2
+        default: 3
       mobile:
         default: 2
-        archive: 3
-        people: 1
   socials:
     # todo: change these links.
     #- icon: "far fa-envelope fa-lg"
@@ -54,6 +51,6 @@ menu:
     - name: Eloajo 2023
       url: /eloajo_2023/
       weight: 1
-    # - name: Galleria (kaikki vuodet)
-    #   url: /galleria/
-    #   weight: 2
+#    - name: Kuvia aiemmilta vuosilta
+#      url: /galleria/
+#      weight: 2
