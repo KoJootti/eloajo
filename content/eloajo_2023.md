@@ -21,6 +21,8 @@ Eloajo 2023 kartat saa ladattua täältä hieman ennen starttia. Kartta jaetaan 
 
 Maastokartat sovelluksen puhelimeesi löydät täältä: **[iOS](https://apps.apple.com/fi/app/karttaselain-maastokartta/id366054373gi)** / **[Android](https://play.google.com/store/apps/details?id=com.swampsend.maastokartat)**
 
+Lataa reitin kartta [**tästä linkistä!**](/eloajokartat_2023.gpx)
+
 ## Sponsorit
 
 Eloajoa 2023 sponsoroi:
