@@ -34,6 +34,7 @@ Eloajoa 2023 sponsoroi:
 -   [**Moto-osat Ahti Kivimaa**](https://www.moto-osat.fi/)
 -   [**Bike & Boat World**](https://www.bikeworld.fi/)
 -   [**Storm Motor**](https://www.storm-motor.fi/)
+-   [**VK-Motors**](https://vk-motors.fi/)
 
 ## **[Kuvia menneistä eloajoista](https://photos.google.com/share/AF1QipP6qgHgricd6BB3yYS_NbBRUUL8NtWyUTs2cxvBZ4-V69JutbDUHpwxLtUVTon3cg?key=SndiYjZSeWpBYlROOFNkRHMtdEpCVGpNam8yUW9B)**
 
