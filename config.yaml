@@ -25,7 +25,7 @@ params:
     #- icon: "far fa-envelope fa-lg"
     #  url: "mailto:jtkoistinen@gmail.com"
     #  landing: true
-  homepage: "/eloajo_2023" # homepage link, mostly same with menu.main[0]
+  homepage: "/eloajo_2024" # homepage link, mostly same with menu.main[0]
   specialPages:
     - main
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
@@ -48,9 +48,9 @@ permalinks:
   work: ":filename/"
 menu:
   main:
-    - name: Eloajo 2023
-      url: /eloajo_2023/
+    - name: Eloajo 2024
+      url: /eloajo_2024/
       weight: 1
-#    - name: Kuvia aiemmilta vuosilta
-#      url: /galleria/
-#      weight: 2
+    - name: Aiemmat vuodet
+      url: /aiemmat_vuodet/
+      weight: 2
