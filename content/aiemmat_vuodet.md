@@ -9,6 +9,13 @@ draft: false
 
 Ylläolevasta linkistä pääset selaamaan kuvia aiempien vuosien Eloajoista. Kuvagalleria siirtyy tälle sivulle tulevaisuudessa.
 
+# Eloajo 2024
+## Eloajo 2024 järjestetään 10. Elokuuta!
+
+**Startti Kyrönlahden ST1 (Rönnintupa) klo 10.00**
+
+Vuoden 2024 reitti on pituudeltaan n. 100km. Iltapaikka Kurun alueella. Perillä tarjolla sauna, uimista ja perinteiseen tapaan hyvää seuraa! Sisätiloista löytyy jokunen patja - makuupussit mukaan. Osallistumismaksu ilmoitetaan myöhemmin.
+
 
 # Eloajo 2023
 
